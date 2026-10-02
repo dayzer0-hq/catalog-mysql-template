@@ -1,0 +1,7 @@
+# Local connection settings — never commit credentials.
+.env
+
+# MySQL / editor noise
+*.log
+*.sql.bak
+.DS_Store
